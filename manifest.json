@@ -1,5 +1,5 @@
 {
-    "name": "My Chicken",
+    "name": "Manajemen Keuangan",
     "short_name": "Manajemen Keuangan",
     "description": "Aplikasi Keuangan.",
     "start_url": "/index.html",
@@ -18,4 +18,5 @@
             "type": "image/png"
         }
     ]
+
 }
