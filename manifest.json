@@ -1,6 +1,6 @@
 {
     "name": "Manajemen Keuangan",
-    "short_name": "Manajemen Keuangan",
+    "short_name": "Manajemen-Keuangan",
     "description": "Aplikasi Keuangan.",
     "start_url": "/Manajemen Keuangan/index.html",
     "display": "standalone",
@@ -20,4 +20,5 @@
     ]
 
 }
+
 
